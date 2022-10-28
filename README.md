@@ -6,6 +6,11 @@ Project Summary:
 This project is a grade calculator program which will allow a user to enter their name along with the grades of assignments they have received throughout a semester and then have the program calculate an average grade for them.
 
 Flowchart for Planning:
+
+
+
+
+
 ![project1flowchart](https://user-images.githubusercontent.com/90400959/198697102-6e857714-5ee0-4180-aeec-9949e1028124.PNG)
 
 Algorithm Description:
